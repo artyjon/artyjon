@@ -1,8 +1,10 @@
-### Всем привет!
-Меня зовут Артем, я начинающий Java-разработчик с фокусом на создание полноценных приложений — от десктопных решений до веб-сервисов. Увлечен:
-- Чистой архитектурой и ООП
-- Обработкой ошибок и валидацией данных
-- Созданием удобных интерфейсов
+### Hello everyone!
+
+I'm Artem, a Junior Java Developer focused on building full-fledged applications - from desktop solutions to web services. Passionate about:
+
+- Clean architecture and OOP principles
+- Error handling and data validation
+- Creating user-friendly interfaces
 
 ---
 
