@@ -1,4 +1,4 @@
-### Hello everyone!
+### Hi everyone!👋
 
 I'm Artem, a Junior Java Developer focused on building full-fledged applications - from desktop solutions to web services. Passionate about:
 
